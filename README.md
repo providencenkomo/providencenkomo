@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @providencenkomo
+- 👀 I’m interested in software and web development ...
+- 🌱 I’m currently learning mutliple skills mostly on coursera in web development; python programming...
+- 📫 How to reach me, you may contact on my email kagisoprovidencenkomo21@gmail.com; https://www.coursera.org/user/7ea7081cb514f0843e011dad00bca311#:~:text=https%3A//zw.linkedin.com/in/providence%2Dnkomo%2D3b82a1225...
+
+<!---
+providencenkomo/providencenkomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
